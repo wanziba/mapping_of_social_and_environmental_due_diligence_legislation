@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "due-diligence-legislation-mapper"
+version = "0.1.0"
+description = "Interactive compliance query and legislation map for environmental and social due diligence laws."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [
+  { name = "Project Contributors" }
+]
+dependencies = [
+  "streamlit>=1.35",
+  "pandas>=2.0",
+  "plotly>=5.20"
+]
+
+[tool.setuptools]
+py-modules = ["app"]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["ui*"]
+exclude = ["assets*", "tests*"]

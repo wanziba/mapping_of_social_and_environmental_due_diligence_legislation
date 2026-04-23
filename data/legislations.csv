@@ -1,0 +1,22 @@
+id,name_en,name_cn,country,category,entity_scope,supply_chain_scope,issue_scope,enforcement_authority
+uk_modern_slavery_2015,UK Modern Slavery Act (2015),英国《现代奴役法案》,UK,disclosure,营业额≥3600万英镑的组织,上游,劳工,英国内政部
+australia_modern_slavery_2018,Australia Modern Slavery Act (2018),澳大利亚《现代奴役法案》,Australia,disclosure,合并收入≥1亿澳元的实体,上游,劳工,澳大利亚总检察长部
+canada_forced_labour_2023,Canada Fighting Forced Labour in Supply Chains Act (2023),加拿大《打击供应链强迫劳动法案》,Canada,disclosure,在加拿大经营且满足一定资产/员工门槛的实体,上游,劳工,加拿大公共安全部
+eu_csrd_2026,EU Corporate Sustainability Reporting Directive (2023),欧盟《企业可持续发展报告指令》,EU,disclosure,超大型企业（员工>1000人/营业额>4.5亿欧元),上下游,人权/劳工/环境,各成员国主管机关
+us_dodd_frank_1502,Dodd-Frank Act Section 1502,美国《多德-弗兰克法案》第1502条,US,disclosure,在SEC注册的发行人（如上市公司）,上游（冲突矿产）,人权/劳工,美国证券交易委员会(SEC)
+france_vigilance_2017,French Duty of Vigilance Law (2017),法国《警戒义务法》,France,conduct,员工≥5000人（法国）或全球员工≥10000人,上下游,人权/环境,司法法院
+norway_transparency_2021,Norwegian Transparency Act (2021),挪威《透明度法案》,Norway,conduct,大型企业（营业额≥7000万挪威克朗等）,上下游,人权/体面工作,挪威消费者管理局
+germany_supply_chain_2023,German Supply Chain Act (2023),德国《供应链法案》,Germany,conduct,员工≥1000人,上游（逐步扩展至间接供应商）,人权/环境,德国联邦经济与出口管制局(BAFA)
+swiss_due_diligence_2022,Swiss Ordinance on Due Diligence (2022),瑞士《尽职调查条例》,Switzerland,conduct,总部/母公司/子公司涉及冲突矿产或童工,上游（矿产/金属）,人权/劳工,瑞士联邦司法警察部
+eu_csddd_2026,EU Corporate Sustainability Due Diligence Directive (2024),欧盟《企业可持续发展尽职调查指令》,EU,conduct,员工>5000人且全球营业额>15亿欧元,上下游,人权/环境,各成员国指定监管机构
+eu_batteries_2023,EU Batteries Regulation (2023),欧盟《电池条例》,EU,product_market,所有将电池投放欧盟市场的经济运营商,上游,环境/人权,欧盟委员会+成员国主管机关
+eu_conflict_minerals_2017,EU Conflict Minerals Regulation (2017),欧盟《冲突矿产条例》,EU,product_market,进口锡/钽/钨/金及其矿产的欧盟进口商,上游,人权/劳工,欧盟成员国指定机关
+eu_dsa_2022,EU Digital Services Act (2022),欧盟《数字服务法案》,EU,conduct,在线平台和搜索引擎（按用户规模分级）,上下游,人权（内容审核）,各成员国数字服务协调员
+eu_ai_act_2024,EU AI Act (2024),欧盟《人工智能法案》,EU,product_market,AI系统提供者和部署者（按风险分级）,上下游,人权,欧盟AI办公室+成员国
+south_korea_ai_2025,South Korea AI Basic Act (2025),韩国《人工智能基本法》,South Korea,conduct,AI业务运营商（按算力阈值）,未明确,人权,韩国个人信息保护委员会等
+uae_gold_2022,UAE Due Diligence Regulations for Responsible Sourcing of Gold (2022),阿联酋《黄金负责任采购尽职调查条例》,UAE,conduct,从事黄金交易或精炼的实体,上游（黄金供应链）,人权/劳工/环境,阿联酋经济部
+us_tariff_307,US Tariff Act Section 307 (1930),美国《关税法》第307条,US,product_market,所有进口商,上游（任何产品）,劳工,美国海关和边境保护局(CBP)
+us_uflpa_2021,US Uyghur Forced Labor Prevention Act (2021),美国《维吾尔强迫劳动预防法》,US,product_market,所有进口商（尤其涉及新疆地区）,上游,劳工,美国海关和边境保护局(CBP)
+uk_environment_2021,UK Environment Act (2021),英国《环境法案》,UK,product_market,经营森林风险商品的大型企业,上游（森林风险商品）,环境,英国环境署
+eu_deforestation_2023,EU Deforestation Regulation (2023),欧盟《零毁林产品条例》,EU,product_market,将特定商品（牛/可可/咖啡/棕榈油/橡胶/大豆/木材）投放欧盟市场的运营商,上游,环境,欧盟委员会+成员国
+eu_forced_labour_2024,EU Forced Labour Regulation (2024),欧盟《强迫劳动条例》,EU,product_market,所有将产品投放欧盟市场的经济运营商,上游,劳工,欧盟委员会+成员国海关
